@@ -16,7 +16,7 @@ OpenFurry is a community resource for open-source furry software and devs.
 
 ## Who
 
-* _Makyo_ - Matthew Scott
+* _Makyo_ -- Matthew Scott
     * _Affiliations:_ 
         * [Canonical](https://launchpad.net/~makyo)
         * [\[adjective\]\[species\]](http://adjectivespecies.com/authors/makyo) 
