@@ -4,7 +4,7 @@ title: Home
 
 ---
 
-Not much here now!
+Not much here yet!  Come check us out in #openfurry on Freenode if you want, though!
 
 ## Why
 
