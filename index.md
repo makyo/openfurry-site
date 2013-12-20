@@ -12,7 +12,8 @@ OpenFurry is a community resource for open-source furry software and devs.
 
 ## What
 
-* [Characters](http://characters.openfurry.org) - [Github](http://github.com/makyo/charref)
+* [Characters](http://characters.openfurry.org) - [Github](https://github.com/makyo/charref)
+* [Ideawheel](http://ideas.jnsq.us) - [Github](https://github.com/makyo/ideawheel)
 
 ## Who
 
@@ -20,11 +21,13 @@ OpenFurry is a community resource for open-source furry software and devs.
     * _Affiliations:_ 
         * [Canonical](https://launchpad.net/~makyo)
         * [\[adjective\]\[species\]](http://adjectivespecies.com/authors/makyo) 
+        * [Weasyl](https://weasyl.com/~makyo)
     * _Code:_
         * [Github](http://github.com/makyo)
         * [Launchpad](https://launchpad.net/~makyo)
     * _Languages:_
-        * JavaScript
-        * Python
-        * Groovy
-        * Java
+        * JavaScript - D3/Protovis, YUI/jQuery, Backbone
+        * Python - Django, Flask
+        * Groovy - Grails
+        * Java - Hibernate
+        * SQL - Postgres, SQLite3, MySQL
